@@ -1,0 +1,85 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: white;
+}
+p{
+    text-align: center;
+}
+header{
+    margin: 0 0 20px 0;
+}
+#title{
+    text-align: center;
+    padding: 50px 0 0 0;
+    font-size: 40px;
+    margin: 0px;
+}
+#main{
+    background: rgb(231, 231, 231);
+    margin: auto;
+}
+#img-div{
+    background: white;
+    margin: 0px;
+    padding: 10px;
+}
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+#img-caption{
+    margin: 20px;
+}
+#tribute-info{
+    display: block;
+    margin: auto;
+    line-height: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    padding: 50px;
+}
+ul{
+    width: 35%;
+    margin: auto;
+}
+#singh{
+    width: 35%;
+    margin: auto;
+    font-style: italic;
+    padding: 30px;
+}
+footer{
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    font-size: 20px ;
+    font-weight: bold;
+}
+#div-container{
+    background-image: url(https://previews.123rf.com/images/oakozhan/oakozhan1504/oakozhan150400001/38920335-iconos-números-1-2-3-uno-dos-tres-aislado-en-fondo-blanco-representación-tridimensional.jpg);
+    display: grid;
+    width: auto;
+    height: 700px;
+    grid-template-columns: 33% 33% 33%;
+
+}
+#link1{
+    position: relative;
+    height: auto;
+}
+#link2{
+    position: relative;
+    height: auto;
+}
+#link3{
+    position: relative;
+    height: auto;
+}
